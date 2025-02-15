@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "blog",
+};
+
 const layout = ({ children }) => {
   return (
     <div>
